@@ -1,5 +1,5 @@
 [package]
-name = "sec10_wordcount"
+name = "sec10-wordcount"
 version = "0.1.0"
 authors = ["modeverv <modeverv@gmail.com>"]
 edition = "2018"
